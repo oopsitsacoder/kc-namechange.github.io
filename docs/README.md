@@ -71,10 +71,8 @@ In either case, there are two forms you need to fill out:
         - A case number
         - A Case Information Cover Sheet (cics.pdf)
         - A scheduling document (schedule.pdf)
-    12. Schedule with Ex Parte
-        1. https://superiorcourt.kingcounty.gov/ex-parte-online-scheduling
-
-
+    12. [Schedule with Ex Parte](https://superiorcourt.kingcounty.gov/ex-parte-online-scheduling)
+        - ![Ex parte scheduling](/kc-namechange/assets/images/ExParteScheduling.png)
 
 
 #### E-filing
