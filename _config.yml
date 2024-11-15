@@ -1,5 +1,7 @@
-remote_theme: pages-themes/merlot@v0.2.0
+title: King County Name Changes
+description: For those wishing to change their name in King County
+
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: King County Name Changes
-description: Bookmark this to keep an eye on my project updates!
+show_downloads: false
