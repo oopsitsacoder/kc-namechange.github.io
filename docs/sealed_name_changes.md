@@ -1,4 +1,4 @@
-## Unsealed Name Changes
+## Sealed Name Changes
 
 ### Related RCWs
 - [RCW 4.24.130 Action for change of name—Fees.](https://apps.leg.wa.gov/rcw/default.aspx?cite=4.24&full=true#4.24.130)
